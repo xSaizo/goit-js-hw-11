@@ -1,21 +1,21 @@
 {
-  "name": "goit-js-hw-10",
+  "name": "goit-js-hw-11",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://github.com/xSaizo/goit-js-hw-10",
+  "homepage": "https://github.com/xSaizo/goit-js-hw-11",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-10/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-11/"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/xSaizo/goit-js-hw-10/tree/gh-pages"
+    "url": "https://github.com/xSaizo/goit-js-hw-11/tree/gh-pages"
   },
   "keywords": [],
   "author": "Mihai Andrei <mihai.andrey96@yahoo.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/xSaizo/goit-js-hw-10/issues"
+    "url": "https://github.com/xSaizo/goit-js-hw-11/issues"
   },
   "dependencies": {
     "@vimeo/player": "^2.20.1",
