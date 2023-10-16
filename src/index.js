@@ -4,7 +4,7 @@ import "simplelightbox/dist/simple-lightbox.min.css";
 import axios from "axios";
 import Notiflix from 'notiflix';
 import { getPhotos} from './js/api.js';
-import { updatePhotoList } from "./markup.js";
+// import { updatePhotoList } from "./markup.js";
 
 
 const form = document.getElementById('search-form');
