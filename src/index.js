@@ -3,7 +3,7 @@ import SimpleLightbox from "simplelightbox";
 import "simplelightbox/dist/simple-lightbox.min.css";
 import axios from "axios";
 import Notiflix from 'notiflix';
-import { getPhotos } from './api.js';
+import { getPhotos} from './js/api.js';
 import { updatePhotoList } from "./markup.js";
 
 
